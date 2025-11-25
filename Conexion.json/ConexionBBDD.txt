@@ -1,0 +1,145 @@
+﻿Restaurando paquetes para C:\Api_Curso\ApiPeliculas\ApiPeliculas\ApiPeliculas.csproj...
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore.tools/index.json
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore.tools/index.json 203 ms 
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore.tools/8.0.22/microsoft.entityframeworkcore.tools.8.0.22.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore.tools/8.0.22/microsoft.entityframeworkcore.tools.8.0.22.nupkg 130 ms 
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore.design/index.json
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore.design/index.json 70 ms 
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore.design/8.0.22/microsoft.entityframeworkcore.design.8.0.22.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore.design/8.0.22/microsoft.entityframeworkcore.design.8.0.22.nupkg 116 ms 
+  GET https://api.nuget.org/v3-flatcontainer/humanizer.core/index.json
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.csharp.workspaces/index.json
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencymodel/index.json
+  GET https://api.nuget.org/v3-flatcontainer/mono.texttemplating/index.json
+  OK https://api.nuget.org/v3-flatcontainer/humanizer.core/index.json 73 ms 
+  GET https://api.nuget.org/v3-flatcontainer/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg 29 ms 
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.csharp.workspaces/index.json 116 ms 
+  OK https://api.nuget.org/v3-flatcontainer/mono.texttemplating/index.json 115 ms 
+  GET https://api.nuget.org/v3-flatcontainer/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.csharp.workspaces/4.5.0/microsoft.codeanalysis.csharp.workspaces.4.5.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencymodel/index.json 143 ms 
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencymodel/8.0.2/microsoft.extensions.dependencymodel.8.0.2.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.csharp.workspaces/4.5.0/microsoft.codeanalysis.csharp.workspaces.4.5.0.nupkg 120 ms 
+  OK https://api.nuget.org/v3-flatcontainer/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg 130 ms 
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencymodel/8.0.2/microsoft.extensions.dependencymodel.8.0.2.nupkg 121 ms 
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.common/index.json
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.workspaces.common/index.json
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.csharp/index.json
+  GET https://api.nuget.org/v3-flatcontainer/system.codedom/index.json
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.common/index.json 60 ms 
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.workspaces.common/index.json 59 ms 
+  OK https://api.nuget.org/v3-flatcontainer/system.codedom/index.json 60 ms 
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.workspaces.common/4.5.0/microsoft.codeanalysis.workspaces.common.4.5.0.nupkg
+  GET https://api.nuget.org/v3-flatcontainer/system.codedom/4.4.0/system.codedom.4.4.0.nupkg
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.common/4.5.0/microsoft.codeanalysis.common.4.5.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.csharp/index.json 68 ms 
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.csharp/4.5.0/microsoft.codeanalysis.csharp.4.5.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.workspaces.common/4.5.0/microsoft.codeanalysis.workspaces.common.4.5.0.nupkg 19 ms 
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.common/4.5.0/microsoft.codeanalysis.common.4.5.0.nupkg 113 ms 
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.csharp/4.5.0/microsoft.codeanalysis.csharp.4.5.0.nupkg 131 ms 
+  OK https://api.nuget.org/v3-flatcontainer/system.codedom/4.4.0/system.codedom.4.4.0.nupkg 174 ms 
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.analyzers/index.json
+  GET https://api.nuget.org/v3-flatcontainer/system.collections.immutable/index.json
+  GET https://api.nuget.org/v3-flatcontainer/system.reflection.metadata/index.json
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.analyzers/index.json 78 ms 
+  OK https://api.nuget.org/v3-flatcontainer/system.collections.immutable/index.json 70 ms 
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.analyzers/3.3.3/microsoft.codeanalysis.analyzers.3.3.3.nupkg
+  GET https://api.nuget.org/v3-flatcontainer/system.collections.immutable/6.0.0/system.collections.immutable.6.0.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.collections.immutable/6.0.0/system.collections.immutable.6.0.0.nupkg 28 ms 
+  OK https://api.nuget.org/v3-flatcontainer/system.reflection.metadata/index.json 159 ms 
+  GET https://api.nuget.org/v3-flatcontainer/system.reflection.metadata/6.0.1/system.reflection.metadata.6.0.1.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.analyzers/3.3.3/microsoft.codeanalysis.analyzers.3.3.3.nupkg 120 ms 
+  OK https://api.nuget.org/v3-flatcontainer/system.reflection.metadata/6.0.1/system.reflection.metadata.6.0.1.nupkg 150 ms 
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.bcl.asyncinterfaces/index.json
+  GET https://api.nuget.org/v3-flatcontainer/system.composition/index.json
+  GET https://api.nuget.org/v3-flatcontainer/system.io.pipelines/index.json
+  GET https://api.nuget.org/v3-flatcontainer/system.threading.channels/index.json
+  OK https://api.nuget.org/v3-flatcontainer/system.io.pipelines/index.json 63 ms 
+  GET https://api.nuget.org/v3-flatcontainer/system.io.pipelines/6.0.3/system.io.pipelines.6.0.3.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.threading.channels/index.json 66 ms 
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.bcl.asyncinterfaces/index.json 66 ms 
+  GET https://api.nuget.org/v3-flatcontainer/system.threading.channels/6.0.0/system.threading.channels.6.0.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.composition/index.json 70 ms 
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg
+  GET https://api.nuget.org/v3-flatcontainer/system.composition/6.0.0/system.composition.6.0.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.composition/6.0.0/system.composition.6.0.0.nupkg 19 ms 
+  OK https://api.nuget.org/v3-flatcontainer/system.io.pipelines/6.0.3/system.io.pipelines.6.0.3.nupkg 100 ms 
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg 100 ms 
+  OK https://api.nuget.org/v3-flatcontainer/system.threading.channels/6.0.0/system.threading.channels.6.0.0.nupkg 109 ms 
+  GET https://api.nuget.org/v3-flatcontainer/system.composition.attributedmodel/index.json
+  GET https://api.nuget.org/v3-flatcontainer/system.composition.convention/index.json
+  GET https://api.nuget.org/v3-flatcontainer/system.composition.hosting/index.json
+  GET https://api.nuget.org/v3-flatcontainer/system.composition.runtime/index.json
+  GET https://api.nuget.org/v3-flatcontainer/system.composition.typedparts/index.json
+  OK https://api.nuget.org/v3-flatcontainer/system.composition.convention/index.json 63 ms 
+  GET https://api.nuget.org/v3-flatcontainer/system.composition.convention/6.0.0/system.composition.convention.6.0.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.composition.hosting/index.json 71 ms 
+  GET https://api.nuget.org/v3-flatcontainer/system.composition.hosting/6.0.0/system.composition.hosting.6.0.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.composition.attributedmodel/index.json 85 ms 
+  GET https://api.nuget.org/v3-flatcontainer/system.composition.attributedmodel/6.0.0/system.composition.attributedmodel.6.0.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.composition.runtime/index.json 130 ms 
+  GET https://api.nuget.org/v3-flatcontainer/system.composition.runtime/6.0.0/system.composition.runtime.6.0.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.composition.typedparts/index.json 136 ms 
+  GET https://api.nuget.org/v3-flatcontainer/system.composition.typedparts/6.0.0/system.composition.typedparts.6.0.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.composition.runtime/6.0.0/system.composition.runtime.6.0.0.nupkg 15 ms 
+  OK https://api.nuget.org/v3-flatcontainer/system.composition.convention/6.0.0/system.composition.convention.6.0.0.nupkg 96 ms 
+  OK https://api.nuget.org/v3-flatcontainer/system.composition.attributedmodel/6.0.0/system.composition.attributedmodel.6.0.0.nupkg 99 ms 
+  OK https://api.nuget.org/v3-flatcontainer/system.composition.hosting/6.0.0/system.composition.hosting.6.0.0.nupkg 126 ms 
+  OK https://api.nuget.org/v3-flatcontainer/system.composition.typedparts/6.0.0/system.composition.typedparts.6.0.0.nupkg 95 ms 
+Se ha instalado Mono.TextTemplating 2.2.1 de https://api.nuget.org/v3/index.json a C:\Users\MAPCO1720\.nuget\packages\mono.texttemplating\2.2.1 con el hash de contenido KZYeKBET/2Z0gY1WlTAK7+RHTl7GSbtvTLDXEZZojUdAPqpQNDL6tHv7VUpqfX5VEOh+uRGKaZXkuD253nEOBQ==.
+Se ha instalado System.Composition 6.0.0 de https://api.nuget.org/v3/index.json a C:\Users\MAPCO1720\.nuget\packages\system.composition\6.0.0 con el hash de contenido d7wMuKQtfsxUa7S13tITC8n1cQzewuhD5iDjZtK2prwFfKVzdYtgrTHgjaV03Zq7feGQ5gkP85tJJntXwInsJA==.
+Se ha instalado System.CodeDom 4.4.0 de https://api.nuget.org/v3/index.json a C:\Users\MAPCO1720\.nuget\packages\system.codedom\4.4.0 con el hash de contenido 2sCCb7doXEwtYAbqzbF/8UAeDRMNmPaQbU2q50Psg1J9KzumyVVCgKQY8s53WIPTufNT0DpSe9QRvVjOzfDWBA==.
+Se ha instalado System.Composition.Hosting 6.0.0 de https://api.nuget.org/v3/index.json a C:\Users\MAPCO1720\.nuget\packages\system.composition.hosting\6.0.0 con el hash de contenido w/wXjj7kvxuHPLdzZ0PAUt++qJl03t7lENmb2Oev0n3zbxyNULbWBlnd5J5WUMMv15kg5o+/TCZFb6lSwfaUUQ==.
+Se ha instalado Microsoft.EntityFrameworkCore.Design 8.0.22 de https://api.nuget.org/v3/index.json a C:\Users\MAPCO1720\.nuget\packages\microsoft.entityframeworkcore.design\8.0.22 con el hash de contenido l4qE4FuNkmFEZvui87sDi3vQMhNSpxsUDCGC9LwnTs2akk59bGhsjTcDp/Jt6hUTJaJ4uMDThAztHi3qeVhGHA==.
+Se ha instalado System.Threading.Channels 6.0.0 de https://api.nuget.org/v3/index.json a C:\Users\MAPCO1720\.nuget\packages\system.threading.channels\6.0.0 con el hash de contenido TY8/9+tI0mNaUMgntOxxaq2ndTkdXqLSxvPmas7XEqOlv9lQtB7wLjYGd756lOaO7Dvb5r/WXhluM+0Xe87v5Q==.
+Se ha instalado System.Composition.TypedParts 6.0.0 de https://api.nuget.org/v3/index.json a C:\Users\MAPCO1720\.nuget\packages\system.composition.typedparts\6.0.0 con el hash de contenido iUR1eHrL8Cwd82neQCJ00MpwNIBs4NZgXzrPqx8NJf/k4+mwBO0XCRmHYJT4OLSwDDqh5nBLJWkz5cROnrGhRA==.
+Se ha instalado System.IO.Pipelines 6.0.3 de https://api.nuget.org/v3/index.json a C:\Users\MAPCO1720\.nuget\packages\system.io.pipelines\6.0.3 con el hash de contenido ryTgF+iFkpGZY1vRQhfCzX0xTdlV3pyaTTqRu2ETbEv+HlV7O6y7hyQURnghNIXvctl5DuZ//Dpks6HdL/Txgw==.
+Se ha instalado Microsoft.Bcl.AsyncInterfaces 6.0.0 de https://api.nuget.org/v3/index.json a C:\Users\MAPCO1720\.nuget\packages\microsoft.bcl.asyncinterfaces\6.0.0 con el hash de contenido UcSjPsst+DfAdJGVDsu346FX0ci0ah+lw3WRtn18NUwEqRt70HaOQ7lI72vy3+1LxtqI3T5GWwV39rQSrCzAeg==.
+Se ha instalado Microsoft.EntityFrameworkCore.Tools 8.0.22 de https://api.nuget.org/v3/index.json a C:\Users\MAPCO1720\.nuget\packages\microsoft.entityframeworkcore.tools\8.0.22 con el hash de contenido zlW1dX6HWig21YAhrtQlyjLo9uq4bRxZ8q87jtGLyZvDwEP30J0f5HnMf058v2OL3Zzcb8gWgXdPealdICLaRA==.
+Se ha instalado System.Composition.Convention 6.0.0 de https://api.nuget.org/v3/index.json a C:\Users\MAPCO1720\.nuget\packages\system.composition.convention\6.0.0 con el hash de contenido XYi4lPRdu5bM4JVJ3/UIHAiG6V6lWWUlkhB9ab4IOq0FrRsp0F4wTyV4Dj+Ds+efoXJ3qbLqlvaUozDO7OLeXA==.
+Se ha instalado System.Composition.AttributedModel 6.0.0 de https://api.nuget.org/v3/index.json a C:\Users\MAPCO1720\.nuget\packages\system.composition.attributedmodel\6.0.0 con el hash de contenido WK1nSDLByK/4VoC7fkNiFuTVEiperuCN/Hyn+VN30R+W2ijO1d0Z2Qm0ScEl9xkSn1G2MyapJi8xpf4R8WRa/w==.
+Se ha instalado System.Composition.Runtime 6.0.0 de https://api.nuget.org/v3/index.json a C:\Users\MAPCO1720\.nuget\packages\system.composition.runtime\6.0.0 con el hash de contenido qkRH/YBaMPTnzxrS5RDk1juvqed4A6HOD/CwRcDGyPpYps1J27waBddiiq1y93jk2ZZ9wuA/kynM+NO0kb3PKg==.
+Se ha instalado Microsoft.Extensions.DependencyModel 8.0.2 de https://api.nuget.org/v3/index.json a C:\Users\MAPCO1720\.nuget\packages\microsoft.extensions.dependencymodel\8.0.2 con el hash de contenido mUBDZZRgZrSyFOsJ2qJJ9fXfqd/kXJwf3AiDoqLD9m6TjY5OO/vLNOb9fb4juC0487eq4hcGN/M2Rh/CKS7QYw==.
+Se ha instalado System.Collections.Immutable 6.0.0 de https://api.nuget.org/v3/index.json a C:\Users\MAPCO1720\.nuget\packages\system.collections.immutable\6.0.0 con el hash de contenido l4zZJ1WU2hqpQQHXz1rvC3etVZN+2DLmQMO79FhOTZHMn8tDRr+WU287sbomD0BETlmKDn0ygUgVy9k5xkkJdA==.
+Se ha instalado System.Reflection.Metadata 6.0.1 de https://api.nuget.org/v3/index.json a C:\Users\MAPCO1720\.nuget\packages\system.reflection.metadata\6.0.1 con el hash de contenido III/lNMSn0ZRBuM9m5Cgbiho5j81u0FAEagFX5ta2DKbljZ3T0IpD8j+BIiHQPeKqJppWS9bGEp6JnKnWKze0g==.
+Se ha instalado Microsoft.CodeAnalysis.CSharp.Workspaces 4.5.0 de https://api.nuget.org/v3/index.json a C:\Users\MAPCO1720\.nuget\packages\microsoft.codeanalysis.csharp.workspaces\4.5.0 con el hash de contenido h74wTpmGOp4yS4hj+EvNzEiPgg/KVs2wmSfTZ81upJZOtPkJsVkgfsgtxxqmAeapjT/vLKfmYV0bS8n5MNVP+g==.
+Se ha instalado Microsoft.CodeAnalysis.Workspaces.Common 4.5.0 de https://api.nuget.org/v3/index.json a C:\Users\MAPCO1720\.nuget\packages\microsoft.codeanalysis.workspaces.common\4.5.0 con el hash de contenido l4dDRmGELXG72XZaonnOeORyD/T5RpEu5LGHOUIhnv+MmUWDY/m1kWXGwtcgQ5CJ5ynkFiRnIYzTKXYjUs7rbw==.
+Se ha instalado Microsoft.CodeAnalysis.Common 4.5.0 de https://api.nuget.org/v3/index.json a C:\Users\MAPCO1720\.nuget\packages\microsoft.codeanalysis.common\4.5.0 con el hash de contenido lwAbIZNdnY0SUNoDmZHkVUwLO8UyNnyyh1t/4XsbFxi4Ounb3xszIYZaWhyj5ZjyfcwqwmtMbE7fUTVCqQEIdQ==.
+Se ha instalado Humanizer.Core 2.14.1 de https://api.nuget.org/v3/index.json a C:\Users\MAPCO1720\.nuget\packages\humanizer.core\2.14.1 con el hash de contenido lQKvtaTDOXnoVJ20ibTuSIOf2i0uO0MPbDhd1jm238I+U/2ZnRENj0cktKZhtchBMtCUSRQ5v4xBCUbKNmyVMw==.
+Se ha instalado Microsoft.CodeAnalysis.CSharp 4.5.0 de https://api.nuget.org/v3/index.json a C:\Users\MAPCO1720\.nuget\packages\microsoft.codeanalysis.csharp\4.5.0 con el hash de contenido cM59oMKAOxvdv76bdmaKPy5hfj+oR+zxikWoueEB7CwTko7mt9sVKZI8Qxlov0C/LuKEG+WQwifepqL3vuTiBQ==.
+Se ha instalado Microsoft.CodeAnalysis.Analyzers 3.3.3 de https://api.nuget.org/v3/index.json a C:\Users\MAPCO1720\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.3 con el hash de contenido j/rOZtLMVJjrfLRlAMckJLPW/1rze9MT1yfWqSIbUPGRu1m1P0fuo9PmqapwsmePfGB5PJrudQLvmUOAMF0DqQ==.
+  CACHE https://api.nuget.org/v3/vulnerabilities/index.json
+  CACHE https://api.nuget.org/v3-vulnerabilities/2025.11.19.23.31.42/vulnerability.base.json
+  CACHE https://api.nuget.org/v3-vulnerabilities/2025.11.19.23.31.42/2025.11.24.11.31.57/vulnerability.update.json
+Instalando el paquete NuGet Microsoft.EntityFrameworkCore.Tools 8.0.22.
+Generación de archivo MSBuild C:\Api_Curso\ApiPeliculas\ApiPeliculas\obj\ApiPeliculas.csproj.nuget.g.props.
+Escribiendo el archivo de recursos en el disco. Ruta de acceso: C:\Api_Curso\ApiPeliculas\ApiPeliculas\obj\project.assets.json
+'Microsoft.Bcl.AsyncInterfaces 1.1.1' se desinstaló correctamente de ApiPeliculas
+'Humanizer.Core 2.14.1' se instaló correctamente en ApiPeliculas
+'Microsoft.Bcl.AsyncInterfaces 6.0.0' se instaló correctamente en ApiPeliculas
+'Microsoft.CodeAnalysis.Analyzers 3.3.3' se instaló correctamente en ApiPeliculas
+'Microsoft.CodeAnalysis.Common 4.5.0' se instaló correctamente en ApiPeliculas
+'Microsoft.CodeAnalysis.CSharp 4.5.0' se instaló correctamente en ApiPeliculas
+'Microsoft.CodeAnalysis.CSharp.Workspaces 4.5.0' se instaló correctamente en ApiPeliculas
+'Microsoft.CodeAnalysis.Workspaces.Common 4.5.0' se instaló correctamente en ApiPeliculas
+'Microsoft.EntityFrameworkCore.Design 8.0.22' se instaló correctamente en ApiPeliculas
+'Microsoft.EntityFrameworkCore.Tools 8.0.22' se instaló correctamente en ApiPeliculas
+'Microsoft.Extensions.DependencyModel 8.0.2' se instaló correctamente en ApiPeliculas
+'Mono.TextTemplating 2.2.1' se instaló correctamente en ApiPeliculas
+'System.CodeDom 4.4.0' se instaló correctamente en ApiPeliculas
+'System.Collections.Immutable 6.0.0' se instaló correctamente en ApiPeliculas
+'System.Composition 6.0.0' se instaló correctamente en ApiPeliculas
+'System.Composition.AttributedModel 6.0.0' se instaló correctamente en ApiPeliculas
+'System.Composition.Convention 6.0.0' se instaló correctamente en ApiPeliculas
+'System.Composition.Hosting 6.0.0' se instaló correctamente en ApiPeliculas
+'System.Composition.Runtime 6.0.0' se instaló correctamente en ApiPeliculas
+'System.Composition.TypedParts 6.0.0' se instaló correctamente en ApiPeliculas
+'System.IO.Pipelines 6.0.3' se instaló correctamente en ApiPeliculas
+'System.Reflection.Metadata 6.0.1' se instaló correctamente en ApiPeliculas
+'System.Threading.Channels 6.0.0' se instaló correctamente en ApiPeliculas
+Ejecutando archivo de script 'C:\Users\MAPCO1720\.nuget\packages\microsoft.entityframeworkcore.tools\8.0.22\tools\init.ps1'...
+La ejecución de acciones de NuGet tardó 5.94 s
+Tiempo transcurrido: 00:00:21.0916086
+========== Finalizado ==========
+
