@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Api_Curso\\ApiPeliculas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CA3A831C-A828-4444-BB02-4311CE0554E6}|ApiPeliculas\\ApiPeliculas.csproj|c:\\api_curso\\apipeliculas\\apipeliculas\\controllers\\categoriascontrollador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3A831C-A828-4444-BB02-4311CE0554E6}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\controllers\\categoriascontrollador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CA3A831C-A828-4444-BB02-4311CE0554E6}|ApiPeliculas\\ApiPeliculas.csproj|c:\\api_curso\\apipeliculas\\apipeliculas\\repositorios\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA3A831C-A828-4444-BB02-4311CE0554E6}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\repositorios\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA3A831C-A828-4444-BB02-4311CE0554E6}|ApiPeliculas\\ApiPeliculas.csproj|c:\\api_curso\\apipeliculas\\apipeliculas\\repositorios\\irepositorios\\icategoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA3A831C-A828-4444-BB02-4311CE0554E6}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\repositorios\\irepositorios\\icategoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA3A831C-A828-4444-BB02-4311CE0554E6}|ApiPeliculas\\ApiPeliculas.csproj|c:\\api_curso\\apipeliculas\\apipeliculas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA3A831C-A828-4444-BB02-4311CE0554E6}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA3A831C-A828-4444-BB02-4311CE0554E6}|ApiPeliculas\\ApiPeliculas.csproj|c:\\api_curso\\apipeliculas\\apipeliculas\\peliculamappers\\peliculamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA3A831C-A828-4444-BB02-4311CE0554E6}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\peliculamappers\\peliculamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA3A831C-A828-4444-BB02-4311CE0554E6}|ApiPeliculas\\ApiPeliculas.csproj|c:\\api_curso\\apipeliculas\\apipeliculas\\controllers\\categoriascontrollador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA3A831C-A828-4444-BB02-4311CE0554E6}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\controllers\\categoriascontrollador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,66 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CategoriaRepositorio.cs",
-              "DocumentMoniker": "C:\\Api_Curso\\ApiPeliculas\\ApiPeliculas\\Repositorios\\CategoriaRepositorio.cs",
-              "RelativeDocumentMoniker": "ApiPeliculas\\Repositorios\\CategoriaRepositorio.cs",
-              "ToolTip": "C:\\Api_Curso\\ApiPeliculas\\ApiPeliculas\\Repositorios\\CategoriaRepositorio.cs",
-              "RelativeToolTip": "ApiPeliculas\\Repositorios\\CategoriaRepositorio.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T19:18:24.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ICategoriaRepositorio.cs",
-              "DocumentMoniker": "C:\\Api_Curso\\ApiPeliculas\\ApiPeliculas\\Repositorios\\IRepositorios\\ICategoriaRepositorio.cs",
-              "RelativeDocumentMoniker": "ApiPeliculas\\Repositorios\\IRepositorios\\ICategoriaRepositorio.cs",
-              "ToolTip": "C:\\Api_Curso\\ApiPeliculas\\ApiPeliculas\\Repositorios\\IRepositorios\\ICategoriaRepositorio.cs",
-              "RelativeToolTip": "ApiPeliculas\\Repositorios\\IRepositorios\\ICategoriaRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T19:14:35.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PeliculaMapper.cs",
-              "DocumentMoniker": "C:\\Api_Curso\\ApiPeliculas\\ApiPeliculas\\PeliculaMappers\\PeliculaMapper.cs",
-              "RelativeDocumentMoniker": "ApiPeliculas\\PeliculaMappers\\PeliculaMapper.cs",
-              "ToolTip": "C:\\Api_Curso\\ApiPeliculas\\ApiPeliculas\\PeliculaMappers\\PeliculaMapper.cs",
-              "RelativeToolTip": "ApiPeliculas\\PeliculaMappers\\PeliculaMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T18:35:40.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Api_Curso\\ApiPeliculas\\ApiPeliculas\\Program.cs",
-              "RelativeDocumentMoniker": "ApiPeliculas\\Program.cs",
-              "ToolTip": "C:\\Api_Curso\\ApiPeliculas\\ApiPeliculas\\Program.cs",
-              "RelativeToolTip": "ApiPeliculas\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T18:29:59.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "CategoriasControllador.cs",
               "DocumentMoniker": "C:\\Api_Curso\\ApiPeliculas\\ApiPeliculas\\Controllers\\CategoriasControllador.cs",
               "RelativeDocumentMoniker": "ApiPeliculas\\Controllers\\CategoriasControllador.cs",
               "ToolTip": "C:\\Api_Curso\\ApiPeliculas\\ApiPeliculas\\Controllers\\CategoriasControllador.cs",
               "RelativeToolTip": "ApiPeliculas\\Controllers\\CategoriasControllador.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAAJYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T17:48:56.897Z",
+              "WhenOpened": "2025-11-26T16:10:13.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriaRepositorio.cs",
+              "DocumentMoniker": "C:\\Api_Curso\\ApiPeliculas\\ApiPeliculas\\Repositorios\\CategoriaRepositorio.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Repositorios\\CategoriaRepositorio.cs",
+              "ToolTip": "C:\\Api_Curso\\ApiPeliculas\\ApiPeliculas\\Repositorios\\CategoriaRepositorio.cs",
+              "RelativeToolTip": "ApiPeliculas\\Repositorios\\CategoriaRepositorio.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:51:36.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICategoriaRepositorio.cs",
+              "DocumentMoniker": "C:\\Api_Curso\\ApiPeliculas\\ApiPeliculas\\Repositorios\\IRepositorios\\ICategoriaRepositorio.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Repositorios\\IRepositorios\\ICategoriaRepositorio.cs",
+              "ToolTip": "C:\\Api_Curso\\ApiPeliculas\\ApiPeliculas\\Repositorios\\IRepositorios\\ICategoriaRepositorio.cs",
+              "RelativeToolTip": "ApiPeliculas\\Repositorios\\IRepositorios\\ICategoriaRepositorio.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:14:48.895Z",
               "EditorCaption": ""
             }
           ]
