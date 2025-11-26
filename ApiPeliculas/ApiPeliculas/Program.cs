@@ -13,6 +13,7 @@ builder.Services.AddDbContext<AplicationDbContext>(options =>
 
 // Add Repositories
 builder.Services.AddScoped<ICategoriaRepositorio, CategoriaRepositorio>();
+builder.Services.AddScoped<IPeliculaRepositorio, PeliculaRepositorio>();
 
 // Add AutoMapper (esto está bien hecho)
 builder.Services.AddAutoMapper(cfg=>
