@@ -2,12 +2,13 @@
 using ApiPeliculas.Modelo.Dtos;
 using ApiPeliculas.Repositorios.IRepositorios;
 using AutoMapper;
-using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Net;
 
 namespace ApiPeliculas.Controllers
 {
+    [Authorize (Roles="Admin")]
     [Route("api/usuarios")]
     [ApiController]
     public class UsuariosControllador : ControllerBase
@@ -51,6 +52,7 @@ namespace ApiPeliculas.Controllers
             return Ok(itemUsuarioDto);
         }
 
+        [AllowAnonymous]
         [HttpPost("Registro")]
         [ProducesResponseType(StatusCodes.Status201Created)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
@@ -77,6 +79,7 @@ namespace ApiPeliculas.Controllers
             _respuestaApi.IsSuccess = true;
             return Ok(_respuestaApi);
         }
+        [AllowAnonymous]
         [HttpPost("login")]
         [ProducesResponseType(StatusCodes.Status201Created)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]

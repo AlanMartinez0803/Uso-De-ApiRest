@@ -59,17 +59,17 @@ namespace ApiPeliculas.Repositorios
             var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
 
             // Claims
-            var claims = new Claim[]
-            {
-            new Claim(ClaimTypes.Name, usuarioBd.NombreUsuario.ToLower()),
-            new Claim(ClaimTypes.Role, usuarioBd.Role)
-            };
+         
 
             // Crear token usando JsonWebTokenHandler
             var handler = new JsonWebTokenHandler();
             var token = handler.CreateToken(new SecurityTokenDescriptor
             {
-                Subject = new ClaimsIdentity(claims),
+                Subject = new ClaimsIdentity(new Claim[]
+            {
+            new Claim(ClaimTypes.Name, usuarioBd.NombreUsuario.ToLower()),
+            new Claim(ClaimTypes.Role, usuarioBd.Role)
+            }),
                 Expires = DateTime.UtcNow.AddDays(7),
                 SigningCredentials = creds
             });

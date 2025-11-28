@@ -2,11 +2,13 @@
 using ApiPeliculas.Modelo.Dtos;
 using ApiPeliculas.Repositorios.IRepositorios;
 using AutoMapper;
-using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+
 
 namespace ApiPeliculas.Controllers
 {
+    [Authorize(Roles = "Admin")]
     [Route("api/categorias")]
     [ApiController]
     public class CategoriasControllador : ControllerBase
@@ -18,6 +20,7 @@ namespace ApiPeliculas.Controllers
             _ct = ct;
             _mapper = map;
         }
+        [AllowAnonymous]
         [HttpGet]
         [ProducesResponseType(StatusCodes.Status403Forbidden)]
         [ProducesResponseType(StatusCodes.Status200OK)]
@@ -31,7 +34,7 @@ namespace ApiPeliculas.Controllers
             }
             return Ok(listaCategoriasDto);
         }
-       
+        [AllowAnonymous]
         [HttpGet ("{id:int}", Name = "GetCategorias")]
         [ProducesResponseType(StatusCodes.Status403Forbidden)]
         [ProducesResponseType(StatusCodes.Status200OK)]
@@ -49,6 +52,7 @@ namespace ApiPeliculas.Controllers
             return Ok(itemCategoriaDto);
         }
 
+        
         [HttpPost]
         [ProducesResponseType(StatusCodes.Status201Created)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
@@ -77,6 +81,7 @@ namespace ApiPeliculas.Controllers
             return CreatedAtRoute("GetCategorias", new { id = categoria.Id }, categoria);
 
         }
+       
         [HttpPatch("{id:int}", Name = "ActualizarPathCategoria")]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
@@ -100,6 +105,7 @@ namespace ApiPeliculas.Controllers
             }
             return NoContent();
         }
+       
         [HttpPut("{id:int}", Name = "ActualizarPutCategoria")]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
@@ -128,6 +134,7 @@ namespace ApiPeliculas.Controllers
             }
             return NoContent();
         }
+       
         [HttpDelete("{id:int}", Name = "BorrarCategoria")]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]

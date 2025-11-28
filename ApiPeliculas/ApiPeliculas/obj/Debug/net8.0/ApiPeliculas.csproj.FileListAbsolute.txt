@@ -148,3 +148,8 @@ C:\Api_Curso\ApiPeliculas\ApiPeliculas\obj\Debug\net8.0\ApiPeliculas.sourcelink.
 C:\Api_Curso\ApiPeliculas\ApiPeliculas\bin\Debug\net8.0\AutoMapper.dll
 C:\Api_Curso\ApiPeliculas\ApiPeliculas\bin\Debug\net8.0\Microsoft.Practices.ServiceLocation.dll
 C:\Api_Curso\ApiPeliculas\ApiPeliculas\bin\Debug\net8.0\XAct.Core.PCL.dll
+C:\Api_Curso\ApiPeliculas\ApiPeliculas\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Api_Curso\ApiPeliculas\ApiPeliculas\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+C:\Api_Curso\ApiPeliculas\ApiPeliculas\bin\Debug\net8.0\Asp.Versioning.Http.dll
+C:\Api_Curso\ApiPeliculas\ApiPeliculas\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+C:\Api_Curso\ApiPeliculas\ApiPeliculas\bin\Debug\net8.0\Asp.Versioning.Mvc.ApiExplorer.dll

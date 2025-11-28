@@ -2,11 +2,12 @@
 using ApiPeliculas.Modelo.Dtos;
 using ApiPeliculas.Repositorios.IRepositorios;
 using AutoMapper;
-using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ApiPeliculas.Controllers
 {
+    [Authorize (Roles ="Admin")]
     [Route("api/peliculas")]
     [ApiController]
     public class PeliculasControllador : ControllerBase
@@ -18,6 +19,7 @@ namespace ApiPeliculas.Controllers
             _pel = pel;
             _mapper = mapper;
         }
+        [AllowAnonymous]
         [HttpGet]
         [ProducesResponseType(StatusCodes.Status403Forbidden)]
         [ProducesResponseType(StatusCodes.Status200OK)]
@@ -31,6 +33,7 @@ namespace ApiPeliculas.Controllers
             }
             return Ok(ListaPeliculasDto);
         }
+        [AllowAnonymous]
         [HttpGet("{Peliculaid:int}", Name = "GetPelicula")]
         [ProducesResponseType(StatusCodes.Status403Forbidden)]
         [ProducesResponseType(StatusCodes.Status200OK)]
@@ -143,6 +146,7 @@ namespace ApiPeliculas.Controllers
             }
             return Ok(ListaPeliculasDto);
         }
+        [AllowAnonymous]
         [HttpGet("Buscar")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
